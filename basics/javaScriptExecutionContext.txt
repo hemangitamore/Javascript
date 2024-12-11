@@ -1,0 +1,3 @@
+//Java sript is single threded
+//Global execution context,Functional execution context,Eval execution context
+//Memoryy creation phase->execution phase
